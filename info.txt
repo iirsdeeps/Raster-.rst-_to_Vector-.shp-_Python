@@ -1,0 +1,1 @@
+Python script:   .rst(raster, input)  to .shp(vector, output) conversion. Output file names are same as that of the input. If there is corrupt files in input directory, the script will mention it in the log file. User needs to enter the folder containing .rst files and the name of the output folder. GDAL(1.11.3) to be installed and added in the environment path
